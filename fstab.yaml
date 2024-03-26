@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p15404-e146221-cmstg.adobeaemcloud.com/bin/franklin.delivery/l423a/l423-47/main"
+    url: "https://author-p15404-e146221-cmstg.adobeaemcloud.com/bin/franklin.delivery/l423/l423-47/main"
     type: "markup"
     suffix: ".html"
